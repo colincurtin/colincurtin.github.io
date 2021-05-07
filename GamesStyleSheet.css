@@ -1,0 +1,38 @@
+img {
+	width : 200px;
+}
+img {
+	padding: 50px;
+}
+
+h1 {
+	padding:50px;
+	text-align: center;
+}
+
+body {
+	background-color: pink;
+}
+
+h1 {
+	font-size: 68px;
+}
+h1 {
+	color: purple
+}
+td {
+	font-size: 58px;
+}
+
+#onlinegames{
+	font-size: 48px;
+	padding:50px;
+}
+#para{
+
+}
+
+
+a:visited{
+	color:White;
+}
