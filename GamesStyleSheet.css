@@ -1,38 +1,52 @@
 img {
-	width : 200px;
-}
-img {
+	width : 400px;
 	padding: 50px;
 }
 
 h1 {
 	padding:50px;
 	text-align: center;
+	font-size: 68px;
+	color: purple;
+	font-family: monospace;
+	font: monaco;
 }
 
 body {
 	background-color: pink;
 }
+#instru {
+	text-align: center;
+	font-size: 48px;
+	color: deeppink;
+	font-family: fantasy;
+	font: papyrus;
+	padding: 70px;
+}
 
-h1 {
-	font-size: 68px;
-}
-h1 {
-	color: purple
-}
-td {
+#head {
 	font-size: 58px;
+	color: red;
+	font-family: monospace;
+	font: courier space;
+	padding: 100px;
 }
 
 #onlinegames{
-	font-size: 48px;
+	font-size: 60px;
 	padding:50px;
+	color:darkorchid;
+	font-family: cursive;
+	font: brush script m7;
 }
+
 #para{
+	font-size: 38px;
+	color:darkslateblue;
+	font-family: cursive;
+	font: lucida handwriting;
 
 }
 
 
-a:visited{
-	color:White;
-}
+
